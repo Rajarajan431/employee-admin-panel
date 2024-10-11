@@ -13,8 +13,8 @@ export default function Header() {
     <header className='border-b-2 p-4 flex items-center justify-between mx-auto w-full
        bg-white shadow-sm cursor-pointer'>
         <h1 className='font-bold text-lg sm:text-xl'>
-            <span className='text-slate-500'>Deals</span>
-            <span className='text-slate-700'>Dray</span>
+            <span className='text-slate-500'>MERN</span>
+            <span className='text-slate-700'>ADMIN PANEL</span>
         </h1>
 
         <nav className='flex-1 flex justify-center'>
